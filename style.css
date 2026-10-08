@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+  line-height: 1, 5;
+  color: white;
+  background-color: green;
+}
+header {
+  background-color: darkorange;
+  padding: 20px 40px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 16px;
+}
+img {
+  width: 40%;
+  border-radius: 16px;
+}
+.Formula {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  border: 2px solid white;
+  background-color: orange;
+}
+.lego {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  border: 2px solid blue;
+  background-color: pink;
+}
+.Restin {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  border: 2px solid saddlebrown;
+}
