@@ -21,6 +21,23 @@ img {
   width: 40%;
   border-radius: 16px;
 }
+.hver {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  border: 2px solid pink;
+  background-color: aqua;
+}
+.Fjölskylda {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  border: 2px solid purple;
+  background-color: darkcyan;
+}
+
 .Formula {
   display: flex;
   align-items: center;
