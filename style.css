@@ -41,3 +41,33 @@ img {
   gap: 20px;
   border: 2px solid saddlebrown;
 }
+label {
+  display: block;
+  margin-top: 8px;
+}
+input {
+  width: 80%;
+  padding: 8px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+textarea {
+  width: 80%;
+  padding: 50px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+button {
+  margin-top: 16px;
+  padding: 10px 24px;
+  border: none;
+  border-radius: 8px;
+  background-color: aqua;
+  color: black;
+  display: block;
+}
+footer {
+  text-align: center;
+  padding: 24px;
+  border-top: 1px solid red;
+}
